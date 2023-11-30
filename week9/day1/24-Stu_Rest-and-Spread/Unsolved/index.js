@@ -2,7 +2,7 @@
 const songs = ['Creep', 'Everlong', 'Bulls On Parade', 'Song 2', 'What I Got'];
 
 // TODO: Which operator is being used here?
-const newSongs = [...songs];
+const newSongs = [...songs]; // ... is the spread operator - spreads items from different array into targeted array
 
 // TODO: What do you expect to be logged in the console?
 console.log(newSongs);
